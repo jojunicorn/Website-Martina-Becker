@@ -6,9 +6,9 @@
         </div>
         <div class="footer-right">
             <ul>
-                <li><a href="#">Impressum</a></li>
-                <li><a href="#">Datenschutz</a></li>
-                <li><a href="#">Disclaimer</a></li>
+                <li><a href="/impressum">Impressum</a></li>
+                <li><a href="/datenschutz">Datenschutz</a></li>
+                <li><a href="/disclaimer">Disclaimer</a></li>
             </ul>
         </div>
     </footer>

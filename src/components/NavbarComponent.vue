@@ -1,39 +1,39 @@
 <template>
     <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/home"><img src="@/assets/logo-white.png" alt="Logo" class="logo-img"></a>
+    <a class="navbar-brand" href="/"><img src="@/assets/logo-white.png" alt="Logo" class="logo-img"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="/home">Home</a>
+          <a class="nav-link" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/aboutMe">Über mich</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Therapieverfahren</a>
+          <a class="nav-link" href="/therapieverfahren">Therapieverfahren</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Therapie
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Colon-Hydro-Therapie</a></li>
-            <li><a class="dropdown-item" href="#">EFT</a></li>
-            <li><a class="dropdown-item" href="#">Akkupunktur</a></li>
+            <li><a class="dropdown-item" href="/colon-hydro-therapy">Colon-Hydro-Therapie</a></li>
+            <li><a class="dropdown-item" href="/eft">EFT</a></li>
+            <li><a class="dropdown-item" href="/akupunktur">Akkupunktur</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Preise</a>
+          <a class="nav-link" href="/preise">Preise</a>
         </li>        
         <li class="nav-item">
-          <a class="nav-link" href="#">Kontakt</a>
+          <a class="nav-link" href="/kontakt">Kontakt</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Anfahrt</a>
+          <a class="nav-link" href="/anfahrt">Anfahrt</a>
         </li>
       </ul>
     </div>
