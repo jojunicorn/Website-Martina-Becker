@@ -1,0 +1,19 @@
+<script setup>
+import { RouterView } from 'vue-router'
+
+</script>
+
+<template>
+  <RouterView />
+</template>
+
+<style>
+#app {
+  font-family: 'Mirza';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+</style>
