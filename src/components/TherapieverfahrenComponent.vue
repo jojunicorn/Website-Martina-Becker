@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="content-body">
         <img src="../assets/buch2.jpg" class="buch-img" alt="Therapien">
 
         <h1 class="heading therapie-heading">Therapien</h1>
@@ -15,7 +15,7 @@
     </div>
 </template>
 <style>
-@import url('./src/assets/css/general.css');
+@import url('../assets/css/general.css');
 .container {
     position: relative;
 }

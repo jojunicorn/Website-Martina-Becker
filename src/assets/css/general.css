@@ -1,4 +1,15 @@
 .heading{
     font-family: 'Mirza', serif;
-    color: #486224;
+    color: #325300;
+    font-size: 4em;
+    text-align: left;
+    margin-left: 10%;
+}
+.content-body{
+    margin-top: 7%;
+
+}
+.body-content{
+    margin-top: 7%;
+
 }

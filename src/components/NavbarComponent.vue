@@ -41,11 +41,14 @@
 </nav>
 </template>
 <style scoped>
-.navbar{
-    margin-top: -4%;
+.navbar {
     font-family: 'Mirza';
     font-size: 1.5rem;
     background-color: #71A02E;
+    position: fixed; /* Add this line */
+    width: 100%; /* Add this line to make it full-width */
+    z-index: 1000; /* Add this line to control the stacking order */
+    top: 0; /* Add this line to position it at the top */
 }
 .nav-link{
     color: white;

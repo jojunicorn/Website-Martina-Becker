@@ -2,8 +2,6 @@
 
 
     <div class="home-body">
-        <img src="../assets/baum2.png" class="home-logo" />
-
         <img src="../assets/logomartina.png" class="home-logo" />
         <div class="heading-div"><h1 class="heading heading-background">Herzlich Wilkommen!</h1></div>
         <p class="data-paragraph">
@@ -57,6 +55,7 @@
     padding: 0;
     position: relative; /* Set position to relative for the pseudo-element */
     min-height: 100vh;
+    text-align: left;
 }
 .home-body::before {
     content: "";
@@ -78,17 +77,22 @@
 .home-logo{
     width: 40%;
     margin-top: 10%;
+    margin-left: 10%;
+    min-width: 300px;
 }
 .arrow{
     margin-top: 20%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 630px) {
     .heading{
         font-size: 2em;
     }
     .data-paragraph{
         font-size: 1em;
+    }
+    .home-logo{
+        width: 50%
     }
 }
 
