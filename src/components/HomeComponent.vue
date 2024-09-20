@@ -3,7 +3,7 @@
 
     <div class="home-body">
         <img src="../assets/logomartina.png" class="home-logo" />
-        <div class="heading-div"><h1 class="heading heading-background">Herzlich Wilkommen!</h1></div>
+        <div class="heading-div"><h1 class="heading heading-background">Herzlich Willkommen!</h1></div>
         <p class="data-paragraph">
             Sie sind herzlich eingeladen, in Ruhe auf meiner Internet-Seite zu verweilen und sich umzuschauen. Neben den in meinem Web-Auftritt näher beschriebenen Therapieverfahren
             z.B. Colon-Hydro-Therapie (Darmreinigung)
@@ -34,7 +34,7 @@
 }
 .heading-div{
     padding-top: 5%;
-    text-align: left;
+    text-align: center;
 }
 .data-paragraph{
     font-family: 'Mirza', serif;
@@ -55,7 +55,7 @@
     padding: 0;
     position: relative; /* Set position to relative for the pseudo-element */
     min-height: 100vh;
-    text-align: left;
+    text-align: center;
 }
 .home-body::before {
     content: "";

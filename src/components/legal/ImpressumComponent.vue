@@ -24,7 +24,8 @@
             <br>Mitgliedsnummer: 23188
 
             <br><br>Texte: Martina Becker
-            <br>Bildquellen: Fotos von Martina Becker
+            <br>Bildquellen: Fotos von Martina Becker, <a href="https://pixabay.com">Pixabay</a>
+
 
             <br><br><b>Besonderer Hinweis zum Heilmittelwerbegesetz (HWG):</b>
             <br>Den in meiner Praxis angebotenen Therapieverfahren liegen keinerlei Heilversprechen zugrunde. Es kann weder eine Linderung noch eine Besserung eines Krankheitszustandes garantiert oder versprochen werden. Bei den hier vorgestellten Behandlungsmethoden handelt es sich um Verfahren der alternativen Medizin, die wissenschaftlich noch nicht anerkannt sind. Alle Angaben über Eigenschaften, Wirkungen und Indikationen beruhen auf den Erkenntnissen und Erfahrungen innerhalb der Therapiemethoden selbst.

@@ -32,7 +32,7 @@ export default {
 
                 <label>Betreff</label>
                 <input class="form-control long-field" type="text"/>
-                <label>Nachicht</label>
+                <label>Nachricht</label>
                 <textarea class="form-control long-field text-area" rows="4" cols="50" type="text-area"></textarea>
                 <input type="button" class="btn button-senden" value="Senden"/>
             </form>

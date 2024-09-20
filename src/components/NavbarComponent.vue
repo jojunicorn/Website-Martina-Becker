@@ -23,7 +23,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="/colon-hydro-therapy">Colon-Hydro-Therapie</a></li>
             <li><a class="dropdown-item" href="/eft">EFT</a></li>
-            <li><a class="dropdown-item" href="/akupunktur">Akkupunktur</a></li>
+            <li><a class="dropdown-item" href="/akupunktur">Akupunktur</a></li>
           </ul>
         </li>
         <li class="nav-item">
